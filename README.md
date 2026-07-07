@@ -14,7 +14,7 @@ $ whoami
 
 <!-- Optional meme banner - drop your image link here -->
 <p align="center">
-  <img src="PUT_YOUR_MEME_IMAGE_LINK_HERE" width="400" alt="Mona's meme banner"/>
+  <img src="https://github.com/user-attachments/assets/ee79c70a-08db-4cb3-af27-90ee10b5ca57" width="400" alt="Mona's meme banner"/>
 </p>
 
 -----------------------------------------------------------
@@ -59,10 +59,9 @@ $ whoami
 <details>
  <summary><b>📱 Featured Projects</b></summary><br>
 
-<!-- Add your projects here, one row per project -->
-✨ [Project Name 1](#) — short description of what it does<br>
-✨ [Project Name 2](#) — short description of what it does<br>
-✨ [Project Name 3](#) — short description of what it does<br>
+🏥 [Skin First — Medical Health App](https://github.com/EsraaSalah996/medical_health_app) — Flutter app for a dermatology medical center: browse doctors, book appointments, manage favorites & profile<br>
+🍔 [Food App (Group C 134)](https://github.com/ahmedgaafar233/food_app_group_c_134) — Food delivery app with modern UI/UX; contributed the Burgers screen and address management<br>
+🛒 [Nectar — Grocery E-Commerce App](https://github.com/MonaAyadDev/nectar_app) — Full grocery shopping app with product discovery, cart & checkout management, clean architecture<br>
 
 ➡️ [More on my Portfolio](#)
 
