@@ -38,16 +38,7 @@ Also: Clean Architecture · Repository pattern · Hive · SharedPreferences · e
 - 🛒 [**Nectar**](https://github.com/MonaAyadDev/nectar_app): grocery e-commerce app with product discovery, cart, and checkout
 - 📚 [**Bookia**](https://github.com/MonaAyadDev/bookia_app): book store app (in progress) with onboarding and auth screens, Arabic/English localization with RTL, and light/dark themes
 
-## App previews
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/MonaAyadDev/fireBase1/raw/main/screenshot/login.png" width="170" alt="Chat app login"><br><sub>Chat App: Login</sub></td>
-    <td align="center"><img src="https://github.com/MonaAyadDev/fireBase1/raw/main/screenshot/chats.png" width="170" alt="Chat app chats list"><br><sub>Chat App: Chats</sub></td>
-    <td align="center"><img src="https://github.com/MonaAyadDev/My-Tasks-/raw/main/picture/list.png" width="170" alt="My Tasks list"><br><sub>My Tasks: List</sub></td>
-    <td align="center"><img src="https://github.com/MonaAyadDev/My-Tasks-/raw/main/picture/add_task.png" width="170" alt="My Tasks add task"><br><sub>My Tasks: Add task</sub></td>
-  </tr>
-</table>
 
 <!-- Demo GIF: upload assets/skillswap-demo.gif to this repo, then remove the comment marks around the next line -->
 <!-- <p align="center"><img src="assets/skillswap-demo.gif" width="240" alt="SkillSwap demo"></p> -->
